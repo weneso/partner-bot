@@ -1,0 +1,2 @@
+# partner-bot
+partner botudur.
